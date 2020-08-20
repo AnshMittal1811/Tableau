@@ -731,6 +731,26 @@
       </table>
       <simple-id uuid='{0D8FD249-8E7E-4C62-A2A6-8C3A962866F3}' />
     </worksheet>
+    <worksheet name='WorldMap'>
+      <table>
+        <view>
+          <datasources />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{0277BF81-D1F6-4DFD-86B4-FBA69B716C6B}' />
+    </worksheet>
   </worksheets>
   <windows saved-dpi-scale-factor='1.25' source-height='37'>
     <window class='worksheet' name='IntroCharts'>
@@ -847,7 +867,7 @@
       </viewpoint>
       <simple-id uuid='{FCAB6476-9239-4092-9DBC-DE3F0FBC047E}' />
     </window>
-    <window class='worksheet' maximized='true' name='BarChart'>
+    <window class='worksheet' name='BarChart'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -883,6 +903,29 @@
         </highlight>
       </viewpoint>
       <simple-id uuid='{294001A7-58D5-4C71-B654-D67A616BB053}' />
+    </window>
+    <window class='worksheet' maximized='true' name='WorldMap'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{BA5E43E5-235D-4428-BCE5-95B7F6D4B2D1}' />
     </window>
   </windows>
   <thumbnails>
@@ -1593,6 +1636,20 @@
       +4u0WEr85KevoyoaqpwGq4v//T//zLVrc9jbPXy1tM1//92vaLGKS1oJogU4A2QzB7R1dvHJ
       B+8hH4SZ30iy+OAuwxcu4fPYsLW20dEzIG7+EyAEoHMko5nLs3O8/V9+RnefF9+FCQz5CLS2
       42h1YLLYsThcKKk9csXqtxdtNkQaVNDUiBZA0NT8f9grubCd8nWnAAAAAElFTkSuQmCC
+    </thumbnail>
+    <thumbnail height='192' name='WorldMap' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABJ0AAASdAHeZh94
+      AAACFUlEQVR4nO3TMQEAIAzAMMC/5yFjRxMFfXpnZg5Eve0A2GQA0gxAmgFIMwBpBiDNAKQZ
+      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
+      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQD
+      kGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBp
+      BiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA
+      0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDN
+      AKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxA
+      mgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZ
+      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
+      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKR9Y+0F
+      fBUOM1sAAAAASUVORK5CYII=
     </thumbnail>
   </thumbnails>
 </workbook>
